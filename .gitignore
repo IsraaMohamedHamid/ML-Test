@@ -6,9 +6,3 @@ venv/
 .ipynb_checkpoints/
 .DS_Store
 .history/
-
-# Personal study files (not part of submission)
-STUDY_GUIDE.md
-INTERVIEW_PRESENTATION.md
-Interview_Presentation*.pptx
-sample.py
